@@ -1,0 +1,109 @@
+canonical_identifier: bkk:krp/KR6q0392/v1
+canonical_location: https://kanripo.org/bkk/KR6q0392/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 雲門匡真禪師語錄
+  identifiers:
+    alt_id:
+    - J24nB138
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J24/J24nB138.xml
+    old_id: J24nB138
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: 嘉興-CB
+  label: 嘉興-CB
+  source_xml_id: wit1
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0392_000.yaml, hash: 'sha256:6898354fd605c24a0aefe01a652f056e8fcc1d4d85205acca64a5c4ecf5eabf7'}
+  - {seq: 1, filename: KR6q0392_001.yaml, hash: 'sha256:24df81c1e0ca13986918dd139903c27cf400e9036bf42cd4b8bb096f068aaa10'}
+  - {seq: 2, filename: KR6q0392_002.yaml, hash: 'sha256:f267b322b6e523a2a4ebdab4a96cece5c8c4ae2e021488fff1b3c0450bf70d1d'}
+  - {seq: 3, filename: KR6q0392_003.yaml, hash: 'sha256:390f7ea605aadc2dc30e3b0c6de9b7bd8496baab2593dd1a11ba8c03c5f88081'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0392_001.markers.yaml, hash: 'sha256:9237a476a84b3f10ec8713139b3f97f4b96b1e1b9d2190f3c4c67ff7aa5d42d8'}
+  - {seq: 2, role: markers, filename: assets/KR6q0392_002.markers.yaml, hash: 'sha256:6661240b4073364cdde239eec9910ba86f28f669aa5ce79578a78d7d749024e4'}
+  - {seq: 3, role: markers, filename: assets/KR6q0392_003.markers.yaml, hash: 'sha256:51792ad8a71408a1c8023083e464f7f04534812ad92f39083c5e24b7bdded961'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0392_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 11865
+  label: 雲門匡真禪師語錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0392_J_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0392_J_001-mulu-2
+    span:
+    - body
+    - 2717
+    - 2717
+  label: 示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0392_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 9613
+  label: 雲門匡真禪師語錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0392_J_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 室中語要
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0392_J_002-mulu-2
+    span:
+    - body
+    - 8182
+    - 8182
+  label: 垂示代語
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0392_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 7992
+  label: 雲門匡真禪師語錄卷第三
+  type: juan
+  level: 1
+hash: sha256:a00b51057adc16383d112811bca0bda8b75d4656ee1da17c6ebef4fa84e84ff4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0392/j/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雲門匡真禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J24/J24nB138.xml
+    old_id: J24nB138
+hash: sha256:6898354fd605c24a0aefe01a652f056e8fcc1d4d85205acca64a5c4ecf5eabf7
