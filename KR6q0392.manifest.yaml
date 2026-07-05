@@ -25,13 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0392_000.yaml, hash: 'sha256:6898354fd605c24a0aefe01a652f056e8fcc1d4d85205acca64a5c4ecf5eabf7'}
-  - {seq: 1, filename: KR6q0392_001.yaml, hash: 'sha256:24df81c1e0ca13986918dd139903c27cf400e9036bf42cd4b8bb096f068aaa10'}
-  - {seq: 2, filename: KR6q0392_002.yaml, hash: 'sha256:f267b322b6e523a2a4ebdab4a96cece5c8c4ae2e021488fff1b3c0450bf70d1d'}
-  - {seq: 3, filename: KR6q0392_003.yaml, hash: 'sha256:390f7ea605aadc2dc30e3b0c6de9b7bd8496baab2593dd1a11ba8c03c5f88081'}
+  - {seq: 1, filename: KR6q0392_001.yaml, hash: 'sha256:f658abe9355af5edc876274fd4ee2607a973404efc2c8018f8e5e3a02fa37bed'}
+  - {seq: 2, filename: KR6q0392_002.yaml, hash: 'sha256:cb3b1b7488705b04ec2e08dddf3e73bedc7d7cae7e6dc5ea6d664140e0d74859'}
+  - {seq: 3, filename: KR6q0392_003.yaml, hash: 'sha256:4eb736d8bc9a7170a2d694346744f0152d3adb5c31d78d7390c298985afeaf51'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0392_001.markers.yaml, hash: 'sha256:9237a476a84b3f10ec8713139b3f97f4b96b1e1b9d2190f3c4c67ff7aa5d42d8'}
-  - {seq: 2, role: markers, filename: assets/KR6q0392_002.markers.yaml, hash: 'sha256:6661240b4073364cdde239eec9910ba86f28f669aa5ce79578a78d7d749024e4'}
-  - {seq: 3, role: markers, filename: assets/KR6q0392_003.markers.yaml, hash: 'sha256:51792ad8a71408a1c8023083e464f7f04534812ad92f39083c5e24b7bdded961'}
+  - {seq: 0, role: markers, filename: assets/KR6q0392_000.markers.yaml, hash: 'sha256:082cf41c0a2dd6d8e02969320b8a95feee2b2b3fab5f211e9f06ce22d5f1bfb9'}
+  - {seq: 1, role: markers, filename: assets/KR6q0392_001.markers.yaml, hash: 'sha256:8501739d4ee736663e140097a0d718a3c2b7eff05f6a374cbfcf6544c56ec9a5'}
+  - {seq: 2, role: markers, filename: assets/KR6q0392_002.markers.yaml, hash: 'sha256:35fb3c99dc67a78be28d60a54786298c39b03626c69cea65972fcb4d2cb93f56'}
+  - {seq: 3, role: markers, filename: assets/KR6q0392_003.markers.yaml, hash: 'sha256:29c9e45f49c22e31ce8ce93b8debdd3c7790be58fb10a68580957847a39f7e0e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -103,7 +104,4 @@ table_of_contents:
   label: 雲門匡真禪師語錄卷第三
   type: juan
   level: 1
-hash: sha256:a00b51057adc16383d112811bca0bda8b75d4656ee1da17c6ebef4fa84e84ff4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6cfe9ff677bb52aa3871b6f6abe9e8e6544bdc68c5cc7e0442c6a6eca26f81cb
