@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0392/v1
 canonical_location: https://kanripo.org/bkk/KR6q0392/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雲門匡真禪師語錄
   identifiers:
@@ -25,14 +25,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0392_000.yaml, hash: 'sha256:6898354fd605c24a0aefe01a652f056e8fcc1d4d85205acca64a5c4ecf5eabf7'}
-  - {seq: 1, filename: KR6q0392_001.yaml, hash: 'sha256:f658abe9355af5edc876274fd4ee2607a973404efc2c8018f8e5e3a02fa37bed'}
-  - {seq: 2, filename: KR6q0392_002.yaml, hash: 'sha256:cb3b1b7488705b04ec2e08dddf3e73bedc7d7cae7e6dc5ea6d664140e0d74859'}
-  - {seq: 3, filename: KR6q0392_003.yaml, hash: 'sha256:4eb736d8bc9a7170a2d694346744f0152d3adb5c31d78d7390c298985afeaf51'}
+  - {seq: 1, filename: KR6q0392_001.yaml, hash: 'sha256:9f599035f322ac66a33d8ad40ef57946faa1282565312e08f366e3ba88503455'}
+  - {seq: 2, filename: KR6q0392_002.yaml, hash: 'sha256:20b93ceb8d476646e4d376b8e529a56c00252490799de35096fc08f9ac3e78ae'}
+  - {seq: 3, filename: KR6q0392_003.yaml, hash: 'sha256:0d2fa12cc22933038c1d53c337ec0062b3739477428be2a04d44a2655626cb69'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0392_000.markers.yaml, hash: 'sha256:082cf41c0a2dd6d8e02969320b8a95feee2b2b3fab5f211e9f06ce22d5f1bfb9'}
-  - {seq: 1, role: markers, filename: assets/KR6q0392_001.markers.yaml, hash: 'sha256:8501739d4ee736663e140097a0d718a3c2b7eff05f6a374cbfcf6544c56ec9a5'}
-  - {seq: 2, role: markers, filename: assets/KR6q0392_002.markers.yaml, hash: 'sha256:35fb3c99dc67a78be28d60a54786298c39b03626c69cea65972fcb4d2cb93f56'}
-  - {seq: 3, role: markers, filename: assets/KR6q0392_003.markers.yaml, hash: 'sha256:29c9e45f49c22e31ce8ce93b8debdd3c7790be58fb10a68580957847a39f7e0e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0392_001.markers.yaml, hash: 'sha256:97a504a5e913730c951cb9aa517761af76041e44335d0fcc60ec2c7107beb122'}
+  - {seq: 2, role: markers, filename: assets/KR6q0392_002.markers.yaml, hash: 'sha256:8b1f88dcf81a47696b6db924bb8bc8e77bb6750ccaab155ee9de38198344dc05'}
+  - {seq: 3, role: markers, filename: assets/KR6q0392_003.markers.yaml, hash: 'sha256:51ab1bf347943dac4f911a6cbd7105280bc51dbf37c25b1217fe40ae424243c2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -104,4 +104,7 @@ table_of_contents:
   label: 雲門匡真禪師語錄卷第三
   type: juan
   level: 1
-hash: sha256:6cfe9ff677bb52aa3871b6f6abe9e8e6544bdc68c5cc7e0442c6a6eca26f81cb
+hash: sha256:90199cf6143e43db7adbbd620d3b0506ebe55bcd27503c01d58be3c46d09a637
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
